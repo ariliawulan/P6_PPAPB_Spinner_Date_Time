@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P6_PPAPB</string>
+    <array name="cities">
+        <item>Aceh</item>
+        <item>Medan</item>
+        <item>DKI Jakarta</item>
+        <item>Bandung</item>
+        <item>DI Yogyakarta</item>
+    </array>
+</resources>
